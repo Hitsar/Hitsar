@@ -11,11 +11,21 @@ I made my first game at the end of 2021, when I started the second one, I abando
 > [!NOTE]
 > My nickname is 2 syllables and 6 letters **Hit Sar**.
 
+### At the moment I am developing 2 games
+
 # I also do [YouTube](https://www.youtube.com/@HitsarOrig/videos)!
 
-### Now I'm shooting training videos, but there will definitely be dev logs!
+## What am I shooting?
+Now I'm shooting training videos, but there will definitely be dev logs!
 
-# A few facts about me:
+# A few facts:
+
+## About me:
 - My favourite colour	`#ff4f00`.
 - I can play the ukulele.
 - Да, я русский.
+  
+## My equipment:
+- Laptop from `Lenovo`.
+- Mouse `Redragon Asus`.
+- Microphone `Redmi 9T` (yup it's a phone)
