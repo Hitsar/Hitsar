@@ -22,10 +22,10 @@ Now I'm shooting training videos, but there will definitely be dev logs!
 
 ## About me:
 - My favourite colour	`#ff4f00`.
-- I can play the ukulele.
+- I can play the guitar and the ukulele.
 - Да, я русский.
   
 ## My equipment:
 - Laptop from `Lenovo`.
 - Mouse `Redragon Asus`.
-- Microphone `Redmi 9T` (yup it's a phone)
+- Microphone `POCO x7` (yup it's a phone)
