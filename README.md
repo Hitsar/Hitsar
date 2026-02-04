@@ -22,10 +22,18 @@ Now I'm shooting training videos, but there will definitely be dev logs!
 
 ## About me:
 - My favourite colour	`#ff4f00`.
-- I can play the guitar and the ukulele.
-- Да, я русский.
+- I can play guitar, ukulele, bass, flute, piano, and a little violin.
+- И что то ещё :3.
   
 ## My equipment:
-- Laptop from `Lenovo`.
+- CPU `Intel Xeon CPU E5-2680 v3`.
+- GPU `RTX 3050`.
+- M2 `256 512`.
+- HDD `512 1TB`.
+- RAM `16GB` :(.
+- Monitors `Redmi G27Q` `LG Flatron L1730s`.
 - Mouse `Redragon Asus`.
-- Microphone `POCO x7` (yup it's a phone)
+- Keyboard `IO Typex SE`.
+- Microphone `Fifine AM6`.
+- Рeadphones `QKZ AK6-Ultra`.
+- Phone `POCO X7`
